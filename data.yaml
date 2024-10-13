@@ -1,0 +1,44 @@
+# path: /path/to/imagenet  # 数据集根目录
+train: E:\3rd_rc_homework\dataset\train\images      # 训练集图像路径
+val: E:\3rd_rc_homework\dataset\val\images          # 验证集图像路径
+test: E:\3rd_rc_homework\dataset\val\images        # 测试集图像路径（可选）
+nc: 38
+names:
+  -
+  - Abyssinian
+  - American Bulldog
+  - American Pit Bull Terrier
+  - Basset Hound
+  - Beagle
+  - Bengal
+  - Birman
+  - Bombay
+  - Boxer
+  - British Shorthair
+  - Chihuahua
+  - Egyptian Mau
+  - English Cocker Spaniel
+  - English Setter
+  - German Shorthaired
+  - Great Pyrenees
+  - Havanese
+  - Japanese Chin
+  - Keeshond
+  - Leonberger
+  - Maine Coon
+  - Miniature Pinscher
+  - Newfoundland
+  - Persian
+  - Pomeranian
+  - Pug
+  - RagDoll
+  - Russian Blue
+  - Saint Bernard
+  - Samoyed
+  - Scottish Terrier
+  - Shiba Inu
+  - Siamese
+  - Sphynx
+  - Staffordshire Bull Terrie
+  - Wheaten Terrier
+  - Yorkshire Terrier
